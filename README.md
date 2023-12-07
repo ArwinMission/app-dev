@@ -1,3 +1,5 @@
+# app-dev
+My first repository
 # **Fast & Furious**
 ## Genre: Action, Drama, Thriller
 ## Main Characters:
@@ -9,11 +11,11 @@
 6. Tej Parker (Ludacris or Chris Bridges) Friend of Brian O'Conner
 7. Han Seoul-Oh (Sung Kang) Friend of Dominic Toretto
 8. Gisele Yashar (Gal Gadot) Friend of Dominic Toretto and Brian O'Conner, Girlfriend of Han 
-9. Luke Hobbs (Dwayne "The Rock" Johnson) enemy turn into ally
-10. Deckard Shaw (Jason Statham) enemy turn into ally
-11. Ramsey (Nathalie Emmanuel) one of the greatest hacker, Creator of God's Eye
+9. Luke Hobbs (Dwayne "The Rock" Johnson) Enemy turn into ally
+10. Deckard Shaw (Jason Statham) Enemy turn into ally
+11. Ramsey (Nathalie Emmanuel) One of the greatest hacker, Creator of God's Eye
 12. Cipher: Played by (Charlize Theron) Enemy of the team
-13. Jakob Toretto: Played by (John Cena) brother of Dominic Toretto, enemy turn to ally
+13. Jakob Toretto: Played by (John Cena) Brother of Dominic Toretto, enemy turn to ally
 ---
 ## Themes:
 - **Family and Loyalty** They don't call theirself as friend but rather as a Family, showcasingthe bonds formed among the characters
