@@ -1,4 +1,4 @@
-# ** Fast & Furious **
+# **Fast & Furious**
 ## Genre: Action, Drama, Thriller
 ## Main Characters:
 1. Dominic Toretto (Vin Diesel) Leader of the Group
